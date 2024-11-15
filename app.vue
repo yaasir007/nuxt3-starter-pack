@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center">
-    Hello World
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
