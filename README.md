@@ -1,75 +1,15 @@
-# Nuxt Minimal Starter
+<header>Nuxt 3 Starter Pack</header>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<p>This starter pack contains the following already setup:</p>
+<ul>
+  <li>Alias setup in nuxt config for easy access path</li>
+  <li>Installed SCSS for nested css and other stuffs</li>
+  <li>Installed Tailwind CSS</li>
+  <li>Installed Lucide for icons</li>
+</ul>
 
-## Setup
 
-Make sure to install dependencies:
+<br>
+<br>
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<h1>Enjoy!!!</h1>
