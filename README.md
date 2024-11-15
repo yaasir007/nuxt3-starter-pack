@@ -8,4 +8,4 @@
   <li>Installed Lucide for icons</li>
 </ul>
 
-<h1 style="color: purple;">Enjoy!!!</h1>
+<h1>Enjoy!!!</h1>
