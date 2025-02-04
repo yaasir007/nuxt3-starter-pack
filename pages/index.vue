@@ -11,6 +11,6 @@ import BackGroundImage from '../assets/image/bg.png'
       Nuxt 3 Starter Pack
       <CircleArrowLeft />
     </p>
-    <p class="text-[white] text-3xl z-10">With Alias, SCSS, Tailwind, Lucide and Nuxt UI</p>
+    <p class="text-[white] text-3xl z-10">With Alias, SCSS, Tailwind, Lucide</p>
   </div>
 </template>

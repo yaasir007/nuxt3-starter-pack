@@ -17,6 +17,4 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-
-  modules: ["@nuxt/ui"],
 })
