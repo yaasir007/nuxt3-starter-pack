@@ -6,6 +6,7 @@
   <li>Installed SCSS for nested css and other stuffs</li>
   <li>Installed Tailwind CSS</li>
   <li>Installed Lucide for icons</li>
+  <li>Installed Primevue 4 for styled components</li>
 </ul>
 
 <h1>Enjoy!!!</h1>
