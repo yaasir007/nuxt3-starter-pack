@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import { resolve } from "path"
-import Aura from '@primevue/themes/aura';
+import Lara from '@primevue/themes/aura';
 
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
@@ -26,7 +26,7 @@ export default defineNuxtConfig({
       /* Configuration */
     options: {
       theme: {
-          preset: Aura
+          preset: Lara
       }
     }
   }

@@ -1,6 +1,7 @@
 <script setup>
 import { CircleArrowRight, CircleArrowLeft } from 'lucide-vue-next';
 import BackGroundImage from '../assets/image/bg.png'
+
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import BackGroundImage from '../assets/image/bg.png'
       <CircleArrowLeft />
     </p>
 
-    <p class="text-[white] bg-amber-400 text-3xl p-2 rounded-lg z-10">With Alias, SCSS, Tailwind, Lucide and Primevue V4.</p>
+    <p class="text-[white] bg-amber-400 text-3xl p-2 rounded-lg z-10">With Alias, SCSS, Tailwind, Lucide and Primevue
+      V4.</p>
   </div>
 </template>
